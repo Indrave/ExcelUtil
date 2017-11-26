@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/poi-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/poi-3.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/poi-ooxml-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-3.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/poi-ooxml-schemas-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-schemas-3.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -37,7 +37,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/xml-apis-xerces-2.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/xercesImpl-2.9.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -46,7 +46,16 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/xmlbeans-2.6.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/xml-apis-xerces-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xmlbeans-2.6.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

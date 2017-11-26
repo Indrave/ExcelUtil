@@ -5,6 +5,7 @@ import com.indrave.service.IExcelRowReader;
 import java.util.List;
 
 public class ExcelRowReader implements IExcelRowReader {
+
     @Override
     public void getRows(int sheetIndex, int curRow, List<String> rowList) {
         System.out.println(curRow + "  ");
@@ -12,4 +13,5 @@ public class ExcelRowReader implements IExcelRowReader {
             System.out.println(string.equals("") ? "*" : string + "  ");
         }
     }
+
 }
